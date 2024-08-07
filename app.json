@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "snack-2013",
-    "slug": "snack-2013",
+    "name": "snake-2013",
+    "slug": "snake-2013",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
